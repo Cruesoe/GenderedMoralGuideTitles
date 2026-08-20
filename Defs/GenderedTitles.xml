@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Other mods can add pairs with more GenderedMoralGuideTitles.GenderedTitleDef entries.
+       Load after cruesoe.genderedmoralguidetitles. -->
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Shepherd</defName>
+    <male>shepherd</male>
+    <female>shepherdess</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Priest</defName>
+    <male>priest</male>
+    <female>priestess</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Shaman</defName>
+    <male>shaman</male>
+    <female>shamaness</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Abbot</defName>
+    <male>abbot</male>
+    <female>abbess</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Brahmin</defName>
+    <male>brahmin</male>
+    <female>brahmini</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Mujtahid</defName>
+    <male>mujtahid</male>
+    <female>mujtahida</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Elder</defName>
+    <male>elder</male>
+    <female>eldress</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Monk</defName>
+    <male>monk</male>
+    <female>nun</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Seer</defName>
+    <male>seer</male>
+    <female>seeress</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Qadi</defName>
+    <male>qadi</male>
+    <female>qadiya</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Alim</defName>
+    <male>alim</male>
+    <female>alima</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <!-- Extra vanilla coverage and Ideology-style religious titles. -->
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Chaplain</defName>
+    <male>chaplain</male>
+    <female>chaplainess</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Purohit</defName>
+    <male>purohit</male>
+    <female>purohita</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Prophet</defName>
+    <male>prophet</male>
+    <female>prophetess</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Druid</defName>
+    <male>druid</male>
+    <female>druidess</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Deacon</defName>
+    <male>deacon</male>
+    <female>deaconess</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Prior</defName>
+    <male>prior</male>
+    <female>prioress</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Vicar</defName>
+    <male>vicar</male>
+    <female>vicaress</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Hierophant</defName>
+    <male>hierophant</male>
+    <female>hierophantess</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Imam</defName>
+    <male>imam</male>
+    <female>imama</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Rabbi</defName>
+    <male>rabbi</male>
+    <female>rabbah</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+  <GenderedMoralGuideTitles.GenderedTitleDef>
+    <defName>GMGT_Patriarch</defName>
+    <male>patriarch</male>
+    <female>matriarch</female>
+  </GenderedMoralGuideTitles.GenderedTitleDef>
+
+</Defs>

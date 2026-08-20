@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Gendered Moral Guide Titles</name>
+  <author>Cruesoe</author>
+  <packageId>cruesoe.genderedmoralguidetitles</packageId>
+  <modVersion IgnoreIfNoMatchingField="True">1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Moral Guide roles get male and female titles, the same way Leader already does.
+
+New ideoligions generate a female form when the noun has one (priest / priestess, abbot / abbess). Assigned pawns show the title that matches their gender. The ideoligion editor has separate male and female name fields.
+
+Requires Ideology.</description>
+  <modDependencies>
+    <li>
+      <packageId>Ludeon.RimWorld.Ideology</packageId>
+      <displayName>Ideology</displayName>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld.Ideology</li>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+</ModMetaData>
