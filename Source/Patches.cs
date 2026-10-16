@@ -174,8 +174,8 @@ public static class Patch_DoWindowContents
 
     public static void ApplyMoralistRandomFemaleName(Dialog_EditPrecept dialog)
     {
-        Precept precept = (Precept)PreceptField.GetValue(dialog);
-        if (MoralistRole.IsMoralist(precept))
+        Precept? precept = (Precept?)PreceptField.GetValue(dialog);
+        if (precept != null && MoralistRole.IsMoralist(precept))
         {
             FemaleNameField.SetValue(dialog, MoralistTitleStore.GetFemale(precept));
         }
