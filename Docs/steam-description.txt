@@ -1,7 +1,14 @@
-Moral Guide roles get male and female titles, the same way Leader already does.
+[b]Moral Guide roles get male and female titles, the same way Leader already does.[/b]
 
-New ideoligions generate a female form when the noun has one (priest / priestess)
+Made by request.
 
-Assigned pawns show the title that matches their gender. The ideoligion editor has separate male and female name fields.
+[h2]Features[/h2]
+[list]
+[*]New ideoligions generate a female form of the title when the noun has one, such as priest and priestess or abbot and abbess.
+[*]Assigned pawns show the title that matches their gender.
+[*]The ideoligion editor has separate male and female name fields for Moral Guide roles.
+[/list]
 
-Made by request
+[h2]Compatibility[/h2]
+Requires Ideology.
+Safe to add to an existing save.
